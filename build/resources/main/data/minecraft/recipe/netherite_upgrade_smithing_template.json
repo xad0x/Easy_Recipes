@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NUN",
+    "NDN",
+    "NNN"
+  ],
+  "key": {
+    "U": "minecraft:netherite_upgrade_smithing_template",
+    "D": "minecraft:diamond",
+    "N": "minecraft:netherrack"
+  },
+  "result": {
+    "id": "minecraft:netherite_upgrade_smithing_template",
+    "count": 2
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 3,
+      "minecraft:sprint_one_cm": 2214,
+      "minecraft:time_since_rest": 4894,
+      "minecraft:walk_one_cm": 2406,
+      "minecraft:total_world_time": 4960,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 4677,
+      "minecraft:play_time": 4894,
+      "minecraft:jump": 15,
+      "minecraft:time_since_death": 4894
+    },
+    "minecraft:crafted": {
+      "minecraft:netherite_ingot": 1,
+      "minecraft:golden_apple": 1
+    }
+  },
+  "DataVersion": 4671
+}

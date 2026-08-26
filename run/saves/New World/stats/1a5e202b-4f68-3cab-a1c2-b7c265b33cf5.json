@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:time_since_rest": 4186,
+      "minecraft:total_world_time": 15931,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 10103,
+      "minecraft:sneak_time": 51,
+      "minecraft:play_time": 4186,
+      "minecraft:time_since_death": 4186
+    },
+    "minecraft:crafted": {
+      "minecraft:netherite_upgrade_smithing_template": 2
+    }
+  },
+  "DataVersion": 4671
+}

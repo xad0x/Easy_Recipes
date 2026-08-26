@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "easy_recipes",
+  "version": "1.0.0",
+  "name": "Easy Recipes",
+  "description": "A smoll mod that changes the crafting recipes for some items.",
+  "authors": [
+    "xad0x"
+  ],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/easy_recipes/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "org.xad0x.easy_recipes.client.CustomrecipeDataGenerator"
+    ],
+    "client": [
+      "org.xad0x.easy_recipes.client.CustomrecipeClient"
+    ],
+    "main": [
+      "org.xad0x.easy_recipes.easy_recipes"
+    ]
+  },
+  "mixins": [
+    "easy_recipes.mixins.json",
+    {
+      "config": "customrecipe.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "fabric-api": "*",
+    "minecraft": "1.21.11"
+  }
+}
