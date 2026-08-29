@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "easy_recipes",
-  "version": "1.0.0_1.21.10",
+  "version": "v1.0.0_1.21.10",
   "name": "Easy Recipes",
   "description": "A smoll mod that changes the crafting recipes for some items.",
   "authors": [
