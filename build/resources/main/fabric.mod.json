@@ -8,8 +8,9 @@
     "xad0x"
   ],
   "contact": {
-    "source": "https://github.com/andi/my-mod",
-    "issues": "https://github.com/andi/my-mod/issues"
+    "homepage": "https://github.com/xad0x/Easy_Recipes",
+    "source": "https://github.com/xad0x/Easy_Recipes",
+    "issues": "https://github.com/xad0x/Easy_Recipes/issues"
   },
   "license": "All-Rights-Reserved",
   "icon": "assets/easy_recipes/icon.png",
