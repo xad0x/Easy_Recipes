@@ -1,13 +1,16 @@
 {
   "schemaVersion": 1,
   "id": "easy_recipes",
-  "version": "1.0.0",
+  "version": "1.0.0_1.21.10",
   "name": "Easy Recipes",
   "description": "A smoll mod that changes the crafting recipes for some items.",
   "authors": [
     "xad0x"
   ],
-  "contact": {},
+  "contact": {
+    "source": "https://github.com/andi/my-mod",
+    "issues": "https://github.com/andi/my-mod/issues"
+  },
   "license": "All-Rights-Reserved",
   "icon": "assets/easy_recipes/icon.png",
   "environment": "*",
@@ -32,6 +35,6 @@
   "depends": {
     "fabricloader": ">=0.19.3",
     "fabric-api": "*",
-    "minecraft": "1.21.11"
+    "minecraft": "1.21.10"
   }
 }
