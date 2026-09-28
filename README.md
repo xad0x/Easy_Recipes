@@ -4,7 +4,7 @@ A smoll Minecraft mod that changes the crafting recipes for some items.
 
 
 
-Get it here: *Modrinth link*
+Get it ***[here](https://modrinth.com/mod/easy_recipes)***
 
 ## Changed recipes:
 
